@@ -1,16 +1,23 @@
-## Hi there 👋
+# Danielle Okula
 
-<!--
-**Danielleokula/Danielleokula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Python & Power BI
 
-Here are some ideas to get you started:
+I build applied analytics projects focused on real-world decision-making.
+My work emphasizes clear methodology, clean visuals, and actionable insight.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current areas of focus:
+
+• Sports and performance analytics  
+• Operational and staffing optimization  
+• Marketing and audience behavior analysis  
+
+Tools:
+
+• Python  
+• Power BI  
+• SQL  
+• R, Tableau (as needed)
+
+Projects in this repository prioritize clarity over complexity and are designed
+to answer practical questions for operators, creators, and businesses.
+
