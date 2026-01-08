@@ -1,17 +1,16 @@
-# Danielle Okula
+# Data Analyst | Python & Power BI
 
-Data Analyst | Python & Power BI
+---
 
-I build applied analytics projects focused on real-world decision-making.
-My work emphasizes clear methodology, clean visuals, and actionable insight.
+I build applied analytics projects focused on real-world decision-making, with an emphasis on clear methodology, clean visuals, and actionable insight.
 
-Current areas of focus:
+**Current areas of focus:**
 
 • Sports and performance analytics  
 • Operational and staffing optimization  
 • Marketing and audience behavior analysis  
 
-Tools:
+**Tools:**
 
 • Python  
 • Power BI  
